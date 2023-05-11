@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="50-2" size="0.800000 0.338861" />
+    <ImageTarget name="100-2" size="0.800000 0.338241" />
+    <ImageTarget name="20-2" size="0.800000 0.339561" />
+    <ImageTarget name="200-2" size="0.800000 0.361823" />
+    <ImageTarget name="200-1" size="0.800000 0.332456" />
+    <ImageTarget name="20-1" size="0.800000 0.374896" />
+    <ImageTarget name="5-2" size="0.800000 0.390900" />
+    <ImageTarget name="100-1" size="0.800000 0.349609" />
+    <ImageTarget name="10-2" size="0.800000 0.372992" />
+    <ImageTarget name="1-2" size="0.800000 0.388872" />
+    <ImageTarget name="10-1" size="0.800000 0.376487" />
+    <ImageTarget name="5-1" size="0.800000 0.384094" />
+    <ImageTarget name="1-1" size="0.800000 0.385276" />
+    <ImageTarget name="50-1" size="0.800000 0.346019" />
+  </Tracking>
+</QCARConfig>
